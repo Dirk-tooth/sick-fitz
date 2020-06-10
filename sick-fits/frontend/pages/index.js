@@ -1,0 +1,10 @@
+// Next.js handles importing react for you!
+import Link from 'next/link';
+
+const Home = (props) => (
+  <div>
+    <p>Hey!</p>
+  </div>
+);
+
+export default Home;
